@@ -8,7 +8,6 @@ import com.example.study.springaws.domain.posts.Posts;
 import com.example.study.springaws.domain.posts.PostsRepository;
 import com.example.study.springaws.dto.PostSaveRequestDto;
 
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
